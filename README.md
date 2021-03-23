@@ -1,6 +1,8 @@
-# first_app
+# Shop App
 
-A new Flutter project.
+A new Flutter project for a shop app.
+
+![screenshot](screenshots/shop-app.gif)
 
 ## Getting Started
 
